@@ -16,7 +16,7 @@ description: Hello world!
 
 Hi, welcome to my website!
 
-If you want to hire me here you have my [CV](http://alexmolas.com/cv).
+If you want to hire me here you have my CV.
 
 
 ---

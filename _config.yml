@@ -27,8 +27,7 @@ toc:
 feed:
   excerpt_only: true
   posts_limit: 500
-  collections:
-    - recipes
+  # collections:
 
 kramdown:
   hard_wrap: true
@@ -39,8 +38,8 @@ future: true
 highlighter: rouge
 
 # Google analyitics id
-google_analytics:
-  id: G-JW9F0B7Y26 # fill in your Google Analytics ID
+# google_analytics:
+#   id: G-JW9F0B7Y26 # fill in your Google Analytics ID
 
 
 # Exclude from processing.
@@ -57,6 +56,6 @@ exclude:
     - venv
     - recipes
 
-collections:
-  recipes:
-    output: true
+# collections:
+#   recipes:
+#     output: true
