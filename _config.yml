@@ -3,7 +3,7 @@ email: janolle94@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal blog!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alexmolas.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jolle-ag.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_link: https://x.com/jolle_ag
 github_link:  https://www.github.com/jolle-ag
 linkedin_link: https://www.linkedin.com/in/jan-olle-aguilera
@@ -55,6 +55,7 @@ exclude:
     - env
     - notebooks
     - venv
+    - recipes
 
 collections:
   recipes:
