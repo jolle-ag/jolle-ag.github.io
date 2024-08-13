@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Alex Molas
-description: Hello, world, I'm Alex, and this is my blog, where I talk about math, machine learning, and other things like cooking. 
+title: Jan Olle
+description: Hello world!
 ---
 
 {% assign totalPosts = site.posts | size %}
@@ -12,12 +12,9 @@ description: Hello, world, I'm Alex, and this is my blog, where I talk about mat
   {% assign totalWords = totalWords | plus: postWords %}
 {% endfor %}
 
-<h1>Hello, I'm Alex</h1>
+<h1>Hello, I'm Jan</h1>
 
-Hi, welcome to my website! I use this tiny part of the internet to share my thoughts about machine learning, maths, cooking, philosophy, and other random things. I write for several reasons that I've explained [here](http://alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html). Since 2020 I've wrote {{ totalPosts }} posts and {{ totalWords }} words. 
-
-I try to keep the site style quite minimal because I want to focus on the content and not on the container. Some people have told me it's too minimal, but I don't care. If you like it you can find the source code [in my repo](https://github.com/alexmolas/alexmolas.github.io/). Feel free to use it as you prefer.
-
+Hi, welcome to my website!
 
 If you want to hire me here you have my [CV](http://alexmolas.com/cv).
 
