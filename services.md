@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Services
-description: Services Alex Molas provides.
+description: Services
 ---
 
 
-<details>
+<!-- <details>
 <summary>Consulting</summary>
 A <a href="https://cal.com/alexmolas/45min">45 minute call</a> where I'll help you to start or improve your data science and machine learning projects. How can I help you?
 <ul>
@@ -40,4 +40,4 @@ As part of my goals for 2024 I’ve decided to offer free advisory sessions for 
 
 <p>To get the most out of the session, please share with me, before the call, your background and the relevant details about your experience.</p>
 
-</details>
+</details> -->

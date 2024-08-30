@@ -16,11 +16,13 @@ description: Hello world!
 
 Hi, welcome to my website!
 
-If you want to hire me here you have my CV.
+Under construction
+
+<!-- If you want to hire me here you have my CV. -->
 
 
 ---
-
+<!-- 
 <h2>Latest posts</h2>
 
 {% assign postCount = 0 %}
@@ -44,4 +46,4 @@ If you want to hire me here you have my CV.
   </li>
 {% endif %}
 {% endfor %}
-
+ -->
